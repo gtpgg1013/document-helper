@@ -19,6 +19,7 @@ uvicorn = "*"
 streamlit = "*"
 streamlit-chat = "*"
 tqdm = "*"
+pyexpect = "*"
 
 [dev-packages]
 
